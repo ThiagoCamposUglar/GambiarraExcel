@@ -1,0 +1,8 @@
+C:\Repositorios\GambiarraExcel\GambiarraExcel\bin\Debug\GambiarraExcel.exe.config
+C:\Repositorios\GambiarraExcel\GambiarraExcel\bin\Debug\GambiarraExcel.exe
+C:\Repositorios\GambiarraExcel\GambiarraExcel\bin\Debug\GambiarraExcel.pdb
+C:\Repositorios\GambiarraExcel\GambiarraExcel\obj\Debug\GambiarraExcel.csproj.AssemblyReference.cache
+C:\Repositorios\GambiarraExcel\GambiarraExcel\obj\Debug\GambiarraExcel.csproj.SuggestedBindingRedirects.cache
+C:\Repositorios\GambiarraExcel\GambiarraExcel\obj\Debug\GambiarraExcel.csproj.CoreCompileInputs.cache
+C:\Repositorios\GambiarraExcel\GambiarraExcel\obj\Debug\GambiarraExcel.exe
+C:\Repositorios\GambiarraExcel\GambiarraExcel\obj\Debug\GambiarraExcel.pdb
